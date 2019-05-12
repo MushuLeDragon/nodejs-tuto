@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-tuto",
+  "version": "1.0.0",
+  "description": "Windows\r - [Node.js](https://nodejs.org/en/ \"Node.js\") (LTS = Version stable | Current = Version la plus récente)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MushuLeDragon/nodejs-tuto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MushuLeDragon/nodejs-tuto/issues"
+  },
+  "homepage": "https://github.com/MushuLeDragon/nodejs-tuto#readme"
+}
